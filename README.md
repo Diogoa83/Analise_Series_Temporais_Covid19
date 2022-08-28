@@ -1,1 +1,1 @@
-# Analise_Series_Temporais_Covid19
+# Analise_Covid19_municipios_SC
